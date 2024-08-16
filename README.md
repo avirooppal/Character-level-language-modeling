@@ -1,4 +1,3 @@
-# Character-level-language-modeling
 
 ---
 
