@@ -1,7 +1,5 @@
 # Character-level-language-modeling
 
-Here’s a sample `README.md` for your character-level language modeling project using a small Transformer model:
-
 ---
 
 # Character-Level Language Modeling with Transformer
